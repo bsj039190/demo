@@ -4,4 +4,4 @@
 
 develop 브랜치입니다.
 
-feature/bae 브랜치
+feature/bae 브랜치입니다.
